@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5ef782bf-0214-41d6-8aee-630ad34a9117" name="testPGit" url="http://10.112.157.149">
+        <fileTransfer host="10.112.157.149" port="22" rootFolder="/home/xiaoxiao/testPGit" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
